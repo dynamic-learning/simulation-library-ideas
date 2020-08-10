@@ -1,5 +1,5 @@
 # Simulation ideas
-This space is for the collaboration of teachers and programmers to create new interactive visualizations and libraries that helps creating them.
+This space is for the collaboration of teachers and programmers to create new interactive visualizations and libraries that help creating them.
 
 Here you can
 1. Request for new simulation / library.
