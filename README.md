@@ -1,4 +1,4 @@
-# Simulation ideas
+# Simulation and library ideas
 This space is for the collaboration of teachers and programmers to create new interactive simulations and libraries that help creating them.
 
 Here you can
